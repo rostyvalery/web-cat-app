@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Printer",
+      "price": 450,
+      "quantity": 120,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Smartphones test",
+      "price": 300,
+      "quantity": 520,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Computer",
+      "price": "3500",
+      "quantity": "34",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Tablet",
+      "price": 300,
+      "quantity": 520,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "ezrezr",
+      "price": "334",
+      "quantity": "33",
+      "selected": false,
+      "available": true,
+      "id": 5
+    },
+    {
+      "id": 7,
+      "name": "Iphone",
+      "price": "600000",
+      "quantity": "256",
+      "selected": false,
+      "available": true
+    }
+  ]
+}
