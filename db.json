@@ -5,8 +5,8 @@
       "name": "Printer",
       "price": 450,
       "quantity": 120,
-      "selected": true,
-      "available": true
+      "selected": false,
+      "available": false
     },
     {
       "id": 2,
@@ -18,27 +18,19 @@
     },
     {
       "id": 3,
-      "name": "Computer",
+      "name": "Computers",
       "price": "3500",
       "quantity": "34",
-      "selected": false,
-      "available": true
+      "selected": true,
+      "available": false
     },
     {
       "id": 4,
-      "name": "Tablet",
+      "name": "Tablets",
       "price": 300,
       "quantity": 520,
-      "selected": false,
+      "selected": true,
       "available": true
-    },
-    {
-      "name": "ezrezr",
-      "price": "334",
-      "quantity": "33",
-      "selected": false,
-      "available": true,
-      "id": 5
     },
     {
       "id": 7,
